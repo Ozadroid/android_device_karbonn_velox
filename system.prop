@@ -1,5 +1,5 @@
 #
-# system.prop
+# system.prop for Karbonn Velox
 #
 ro.opengles.version=131072
 hwui.render_dirty_regions=false
