@@ -1,4 +1,1 @@
-android_device_ainol_elf2
-===========================
-
-Ainol ELF-II specific files
+Device Specific Files for Karbonn smart Tab 8 - Velox
