@@ -1,5 +1,5 @@
 # Inherit device configuration for N70.
-$(call inherit-product, device/karbonn/velox/full_elf2.mk)
+$(call inherit-product, device/karbonn/velox/full_velox.mk)
 
 # Inherit some common cyanogenmod stuff.
 $(call inherit-product, vendor/cm/config/common_full_tablet_wifionly.mk)
